@@ -1,0 +1,3 @@
+**/AppData/Logs/*.log
+**/bin
+**/obj
